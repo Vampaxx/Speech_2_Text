@@ -33,7 +33,12 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "notebook/trials.ipynb",
-    "templates/index.html"]
+    "templates/index.html",
+    "static/css/home.css",
+    "static/css/speech_2_text.css",
+    "static/js/home.js",
+    "static/js/speech_2_text.js",
+    ]
 
 
 for filepath in list_of_files:
