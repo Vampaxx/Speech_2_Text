@@ -25,8 +25,8 @@ This project is a Flask-based web application designed to handle audio file uplo
 
 1. Clone the repository:
 ````bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Vampaxx/Speech_2_Text
+cd Speech_2_Text
 ````
 2. Create a virtual environment and install dependencies:
 
