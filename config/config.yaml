@@ -1,0 +1,6 @@
+download_dir  : artifacts\Whisper
+
+preprocessing_dir:
+  model_file_path : artifacts\Whisper\base.pt
+  audio_file_path : static\uploads\recorded_audio.wav
+  text_file_path  : static\transcriptions\speech_to_text.txt
