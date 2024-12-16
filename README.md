@@ -67,11 +67,6 @@ project-directory/
   |__ uploads           # Directory for uploaded files
 ````
 
-### Customization
-
-Pipeline Integration: Replace the DataProcessingPipeline class in app.py with your custom logic. The pipeline's main() method should accept the audio file path and return the desired output.
-
-Frontend Integration: Customize the frontend code located in the static directory for tailored user experience.
 
 ### Deployment
 
